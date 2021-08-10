@@ -1,5 +1,6 @@
-# Szemináriumi anyagok - Hétfő 9:40-es csoport
-Ebben a repóban találod az összes órai notebookot és scriptet valamint azok rendszerezett, tisztázott verzióit.
+# Szemináriumi anyagok
+Ebben a repóban találod az összes órai notebookot és scriptet valamint azok rendszerezett, tisztázott verzióit. Itt találod továbbá az órákon megoldott feladatokat és azok megoldásait.
 
-A repó struktúrája az alábbi:
-
+- A repóban a tisztázott anyagok témakörök szerint vannak strukturálva a `clean` mappában.
+- A 9:50-es szemináriumi csoport óráin keletkezett anyagok a `950` nevű mappában vannak a szeminárium sorszáma szerint csoportosítva
+- a 11:40-es szemináriumi csoport óráin keletkezett anyagok a `1140` nevű mappában vannak a szeminárium sorszáma szerint csoportosítva
