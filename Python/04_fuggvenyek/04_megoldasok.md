@@ -1,4 +1,4 @@
-# Írj egy függvényt ami összeszoroz minden számot egy iterálható inputban (lista, tuple).
+# Írj egy függvényt ami összeszoroz minden számot egy iterálható inputban (list, tuple).
 
 
 ```python
@@ -41,7 +41,7 @@ faktorialis(5)
 
 
 
-# Írj egy függvényt aminek az inputja egy lista, az outputja egy lista amely az eredeti lista egyedi elemeit tartalmazza.
+# Írj egy függvényt aminek az inputja egy list, az outputja egy list amely az eredeti list egyedi elemeit tartalmazza.
 
 
 ```python
@@ -99,7 +99,7 @@ prim(7)
 
 
 
-# Írj egy függvényt aminek az inputja egy lista, az outputja pedig a lista numerikus elemeit tartalmazza (kiszűri a szöveges és boolean elemeket).
+# Írj egy függvényt aminek az inputja egy list, az outputja pedig a list numerikus elemeit tartalmazza (kiszűri a szöveges és boolean elemeket).
 
 
 ```python
@@ -125,7 +125,7 @@ numerikus([2, 3.33, 'alma', True])
 
 
 
-# Írj egy függvényt aminek az inputja egy egész szám, az outputja pedig egy lista ami az adott szám prímtényezős felbontását tartalmazza.
+# Írj egy függvényt aminek az inputja egy egész szám, az outputja pedig egy list ami az adott szám prímtényezős felbontását tartalmazza.
 
 
 ```python
