@@ -1,0 +1,53 @@
+   38  ls
+   39  pwd
+   40  cd
+   41  pwd
+   42  ls
+   43  ls /
+   44  cd /c
+   45  ls
+   46  pwd
+   47  ls
+   48  cd /c
+   49  ls
+   50  pwd
+   51  ks
+   52  ls
+   53  ls -l
+   54  ls -l
+   55  ls -l
+   56  ls --help
+   57  ls -j
+   58  ls -h
+   59  ls -hl
+   60  ls -tl
+   61  ls -lr
+   62  cd
+   63  cd /c
+   64  ls
+   65  cd /c/Users
+   66  cd /c
+   67  cd Users/
+   68  ls
+   69  cd Rendszergazda/
+   70  cd okiss/
+   71  ls
+   72  cd ..
+   73  cd ../Program\ Files
+   74  cd ..
+   75  cd ..
+   76  ls
+   77  cd /c
+   78  cd Users/okiss/../../Program\ Files
+   79  cd ~
+   80  ls
+   81  cd ba-pre-session-2021/
+   82  ls
+   83  ls -l
+   84  ls -lt
+   85  ls -ltr
+   86  cd .
+   87  ls pwd
+   88  history
+   89  cd
+   90  history > a.txt
