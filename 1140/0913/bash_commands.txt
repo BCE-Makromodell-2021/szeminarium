@@ -1,0 +1,44 @@
+91  pwd
+   92  cd /c
+   93  pwd
+   94  cd /c/Users/okiss/
+   95  cd ..
+   96  cd okiss/
+   97  cd ../..
+   98  ls
+   99  cd Program Files
+  100  cd Program\ Files
+  101  ks
+  102  ls
+  103  cd /c
+  104  ls
+  105  ls -l
+  106  ls -l
+  107  ls -lh
+  108  ls --help
+  109  ls -l
+  110  ls -lr
+  111  ls -tl
+  112  cd Users/okiss/../../Program\ Files
+  113  cd
+  114  cd /c
+  115  cd ~
+  116  ls
+  117  cd ~/PortableGit/
+  118  cd /c
+  119  cd .
+  120  cd ./Users/
+  121  cd home
+  122  cd
+  123  ls
+  124  ls PortableGit/
+  125  ls pwd
+  126  pwd
+  127  ls < pwd
+  128  cd /c/
+  129  cd /c/Users/okiss/
+  130  cd /c/Program\ Files
+  131  cd
+  132  hitory
+  133  history
+  134  history > b.txt
