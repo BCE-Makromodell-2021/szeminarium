@@ -1,0 +1,71 @@
+  136  cd
+  137  mkdir szeminarium
+  138  ls
+  139  rmdir szeminarium/
+  140  ls
+  141  mkdir szeminarium
+  142  cd szeminarium/
+  143  nano szoveg.txt
+  144  mv szoveg.txt szoveg.kiscica
+  145  ls
+  146  cd ..
+  147  rmdir szeminarium/
+  148  cd szeminarium/
+  149  ls
+  150  rm szoveg.kiscica 
+  151  ls
+  152  cd ..
+  153  rmdir szeminarium/
+  154  mkdir szeminarium
+  155  cd szeminarium/
+  156  nano alma.txt
+  157  ls
+  158  cat alma.txt 
+  159  cp alma.txt backup_alma.txt
+  160  ls
+  161  cat backup_alma.txt 
+  162  cd..
+  163  cd ..
+  164  cp szeminarium/ backup_szeminarium
+  165  man cp
+  166  cp --help
+  167  cp -r szeminarium/ backup_szeminarium
+  168  ls
+  169  cd szeminarium/
+  170  ls
+  171  cp alma.txt alma.kiscica
+  172  ls
+  173  cd ..
+  174  mkdir blabla
+  175  cd blabla/
+  176  ls
+  177  touch .blabla
+  178  ls
+  179  cd ..
+  180  rmdir blabla/
+  181  cd blabla/
+  182  ls
+  183  ls -a
+  184  cd ..
+  185  rmdir blabla/
+  186  rm -r blabla/
+  187  cd szeminarium/
+  188  ls
+  189  ls *.txt
+  190  ls backup*
+  191  ls
+  192  ls ????.txt
+  193  ls *p*
+  194  ls *b*
+  195  mkdir raw processed
+  196  ls
+  197  mkdir a/b/c
+  198  mkdir -p a/b/c
+  199  ls a
+  200  ls a/b
+  201  cd
+  202  ls
+  203  cd szeminarium/
+  204  ls
+  205  git init
+  206  history > h.txt
