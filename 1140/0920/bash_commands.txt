@@ -1,0 +1,79 @@
+  216  mkdir szeminarium
+  217  ls
+  218  rmdir szeminarium/
+  219  ls
+  220  mkdir szeminarium
+  221  ls
+  222  cd szeminarium/
+  223  ls
+  224  nano alma.txt
+  225  ls
+  226  ls
+  227  mv alma.txt alma.kiscica
+  228  ls
+  229  cd ..
+  230  ls
+  231  rmdir szeminarium/
+  232  cd szeminarium/
+  233  ls
+  234  rm alma.kiscica 
+  235  ls
+  236  cd ..
+  237  rmdir szeminarium/
+  238  ls
+  239  mkdir szeminarium
+  240  cd szeminarium/
+  241  nano valami.txt
+  242  ls
+  243  cd ..
+  244  rmdir szeminarium/
+  245  rm -r szeminarium/
+  246  ls
+  247  mkdir szeminarium
+  248  cd szeminarium/
+  249  ls
+  250  history
+  251  history > hist.txt
+  252  ls
+  253  cp hist.txt ../
+  254  ls
+  255  ls ../
+  256  cp hist.txt history.txt
+  257  ls
+  258  mkdir backup
+  259  ls
+  260  mv hist.txt backup/
+  261  ls
+  262  ls backup/
+  263  cd ..
+  264  ls
+  265  cp szeminarium/ szeminariumbackup
+  266  cp -r szeminarium/ szeminariumbackup
+  267  ls
+  268  ls
+  269  ls sz*
+  270  cd szeminarium
+  271  ls
+  272  cp history.txt alma.txt
+  273  ls
+  274  ls *.txt
+  275  ls ????.txt
+  278  ls
+  279  touch my_file.txt
+  280  ls
+  281  ls -l
+  282  mkdir raw processed
+  283  ls
+  284  mkdir a/b/c
+  285  mkdir -p a/b/c
+  286  ls a
+  287  ls a/b
+  288  ls
+  289  cat history.txt 
+  290  cat *.txt
+  291  cat *.txt > a.txt
+  292  ls
+  293  cat history.txt 
+  294  cat history.txt | tail -n8 | head -n3
+  295  git
+  296  history > h.txt
