@@ -1,5 +1,5 @@
 # Szemináriumi anyagok
-Ebben a repóban találod az összes órai notebookot és scriptet valamint azok rendszerezett, tisztázott verzióit. Itt találod továbbá az órákon megoldott feladatokat és azok megoldásait.
+Ebben a repóban találod az összes órai notebookot és scriptet, valamint azok rendszerezett, tisztázott verzióit. Itt találod továbbá az órákon megoldott feladatokat és azok megoldásait.
 
 - A Githez és GitHubhoz kapcsolódó anyagokat a `Git` mappában találod.
 - A Bash anyagokat a `Bash` mappában éred el.
