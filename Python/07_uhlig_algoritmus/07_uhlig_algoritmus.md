@@ -152,7 +152,7 @@ V = np.concatenate((
     np.concatenate((np.kron(N.T,F)+np.kron(np.identity(k),(F*P+J*R+G)), 
                     np.kron(N.T,J)+np.kron(np.identity(k),K)), axis=1)), axis=0)
 LN_plus_M = L*N + M;
-QS_vec = np.linalg.lstsq(-V , np.concatenate((D, LN_plus_M), axis=0), rcond=None)[0]
+QS_vec = (-V).I*np.concatenate((D, LN_plus_M), axis=0)
 Q = QS_vec[0]
 S = QS_vec[1:]
 ```
