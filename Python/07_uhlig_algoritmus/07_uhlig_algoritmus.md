@@ -18,8 +18,8 @@ omega = alpha*beta/(1-beta*(1-delta));
 ```
 
 ## Definialjuk a szukseges egyutthato matrixokat
-![image.png](attachment:image.png)
-![image-2.png](attachment:image-2.png)
+![png](eq1.png)
+![png](eq2.png)
 
 
 ```python
@@ -45,7 +45,7 @@ N = np.matrix([rho])
 ```
 
 ## Szamitsuk ki a megfelelo egyutthatomatrixokat
-![image.png](attachment:image.png)
+![png](eq3.png)
 
 
 ```python
